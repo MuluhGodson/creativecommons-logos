@@ -1,15 +1,23 @@
 {
   "name": "creativecommons-logos",
   "version": "1.0.0",
-  "description": "",
-  "main": "cclogos.js",
+  "description": "A collection of all logos of the various CC projects in SVG format.",
+  "main": "logos.js",
   "scripts": {
     "build": "npx mix"
   },
   "keywords": [],
-  "author": "",
+  "author": "MuluhGodson",
   "license": "MIT",
   "devDependencies": {
     "laravel-mix": "^6.0.39"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuluhGodson/creativecommons-logos.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MuluhGodson/creativecommons-logos/issues"
+  },
+  "homepage": "https://github.com/MuluhGodson/creativecommons-logos#readme"
 }
