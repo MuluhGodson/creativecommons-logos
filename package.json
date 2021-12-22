@@ -1,6 +1,6 @@
 {
-  "name": "creativecommons-logos",
-  "version": "1.0.0",
+  "name": "@creativecommons/cc-logos",
+  "version": "0.1.1",
   "description": "A collection of all logos of the various CC projects in SVG format.",
   "main": "logos.js",
   "scripts": {
