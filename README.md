@@ -21,12 +21,11 @@ Example: To display the logo for CC Vocabulary
 
 ```html
 
+<!-- Div element to render the image -->
+<div id="vocab-image"></div>
+
+<!-- get the specific logo from the Logo() function -->
 <script>
-
-    <div id="vocab-image">
-    </div>
-
-
     const vocabularyLogo = logo(vocabulary)
     document.getElementById("vocab-image").innerHTML = vocabularyLogo;
 </script>
