@@ -1,0 +1,15 @@
+{
+  "name": "creativecommons-logos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cclogos.js",
+  "scripts": {
+    "build": "npx mix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "laravel-mix": "^6.0.39"
+  }
+}
